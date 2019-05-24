@@ -1,0 +1,23 @@
+{
+  "name": "node-sql",
+  "version": "1.0.0",
+  "description": "Node application that prints entries from MySQL database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csc3221-spring2019/basic-db-chandler-stevens.git"
+  },
+  "author": "Chandler Stevens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csc3221-spring2019/basic-db-chandler-stevens/issues"
+  },
+  "homepage": "https://github.com/csc3221-spring2019/basic-db-chandler-stevens#readme",
+  "dependencies": {
+    "express": "~4.16.3",
+    "mysql": "~2.15.0"
+  }
+}
