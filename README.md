@@ -1,2 +1,2 @@
 # basic-db
-Basic Database Assignment
+NodeJS + Express + MySQL Employee Database
